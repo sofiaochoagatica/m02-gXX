@@ -1,0 +1,23 @@
+body {background-color:#ddd1c1 ;}
+
+
+.CV{color:#004f42 ; font-family: 'Poiret One', cursive; }
+.Titulo{color: #ddd1c1; font-size:30px ;
+background-color: #004f42; width:  50%; height: 72px; font-family: 'Poiret One', cursive;  margin-left: 50px;}
+
+.FOTOMIA{}
+
+
+
+.INFORMACIÓNPERSONALTITULO{color:#004f42 ;font-size: 20px ; width: 30%; height: 40px; font-family: 'Poiret One', cursive;margin-left: 50px;}
+.INFORMACIÓNPERSONAL{color:#ddd1c1;background-color: #60605b; width: 80%;height: 100px;font-family: 'Signika Negative', sans-serif; margin-left: 50px; }
+
+.FORMACIÓNACADÉMICATITULO{color:#004f42 ;font-size: 30px ; width: 30%; height: 40px;font-family: 'Poiret One', cursive;margin-left: 50px;}
+.FORMACIÓNACADÉMICA{color:#ddd1c1;background-color: #60605b; width: 80%;height: 75px; font-family: 'Signika Negative', sans-serif;margin-left: 50px;}
+
+.HABILIDADESTITULO{color:#004f42 ;font-size: 30px  ; width: 30%; height: 40px;font-family: 'Poiret One', cursive;margin-left: 50px;}
+.HABILIDADES{color:#ddd1c1;background-color: #60605b; width: 80%;height: 170px; font-family: 'Signika Negative', sans-serif;margin-left: 50px;}
+
+.SOBREMITITULO{color:#004f42 ;font-size: 40px ; width: 30%; height: 40px;font-family: 'Poiret One', cursive;margin-left: 50px;}
+.SOBREMI{color:#ddd1c1;background-color: #60605b; width: 80%;height: 50px;font-family: 'Signika Negative', sans-serif;margin-left: 50px;}
+
